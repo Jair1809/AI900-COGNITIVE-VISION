@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "7b83b9e2-ad44-4c64-a5e7-3e5f928d18b5",
+  "comprimento do conteúdo": "155",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "texto": "uma formação de nuvens sobre a água",
+    "confiança": 0.6046236157417297
+  },
+  "metadados": {
+    "largura": 620, é,
+    "altura": 465
+  }
+}
