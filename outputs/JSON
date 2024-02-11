@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "5754c94d-a167-45a8-89b6-516533c03a97",
+  "comprimento do conteúdo": "159",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "texto": "os pés de uma pessoa em um galho de árvore",
+    "confiança": 0.7596226930618286
+  },
+  "metadados": {
+    "largura": 275, é,
+    "altura": 183
+  }
+}
